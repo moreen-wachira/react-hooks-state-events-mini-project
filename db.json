@@ -1,0 +1,10 @@
+{
+  "tasksData": [
+    { "id": 1, "text": "Complete homework", "category": "School" },
+    { "id": 2, "text": "Buy groceries", "category": "Personal" },
+    { "id": 3, "text": "Finish coding project", "category": "Work" },
+    { "id": 4, "text": "Go to the gym", "category": "Personal" },
+    { "id": 5, "text": "Read a book", "category": "Personal" }
+  ],
+  "categoriesData": ["All", "Personal", "Work", "School"]
+}
